@@ -1,5 +1,5 @@
-# Get in the Robot Shinji.
-## No for real, get in the robot.
+# Y'all slept on Megaman ZX wayyyyy too hard.
+## So here's a fighting game based off it.
 
 
 
@@ -15,3 +15,4 @@
 - [Military Voice Pack by VOiD1 Gaming](https://void1gaming.itch.io/military-voice-pack)
 - [Military Voice Pack 2 by VOiD1 Gaming](https://void1gaming.itch.io/military-voice-pack-2)
 - [Free Horror Sci Fi Pack by whitebataudio](https://whitebataudio.itch.io/retro-horrorsci-fi-music-pack)
+- MegamanZX Sprites, please dear god don't sue me Capcom
